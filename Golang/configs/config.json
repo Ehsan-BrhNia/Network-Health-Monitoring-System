@@ -1,0 +1,11 @@
+{
+  "telegram_bot_token": "8300405598:AAE1FsYN8W-0I50r9ic2NdF6ky4WsPre03I",
+  "telegram_chat_id": "218325108",
+  "interval_seconds": 3,
+  "retry_count": 3,
+  "domains": [
+    "google.com",
+    "github.com",
+    "hamrah.academy"
+  ]
+}
